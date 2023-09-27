@@ -48,7 +48,7 @@ The Dice Rolling Simulator is a Python program that simulates the roll of a six-
    python dice_rolling_simulator.py
 
 
-hint: Follow the prompts to input the number of dice and the number of sides on each die. Then, press Enter to roll the dice. The program will display the result of the roll.
+**hint: Follow the prompts to input the number of dice and the number of sides on each die. Then, press Enter to roll the dice. The program will display the result of the roll.**
 
 ## Contributions
 
