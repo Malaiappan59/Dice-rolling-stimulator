@@ -33,7 +33,7 @@ The Dice Rolling Simulator is a Python program that simulates the roll of a six-
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/dice-rolling-simulator.git
+   git clone https://github.com/Malaiappan59/Dice-rolling-stimulator.git
    
 
 2. Navigate to the project directory.
